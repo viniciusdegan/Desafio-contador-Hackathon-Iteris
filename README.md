@@ -1,24 +1,4 @@
-# desafio-contador
+# Desafio Contador
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Exercício proposto pelo treinamento do Hackathon da Iteris para fixação dos conteúdos apresentados em Vue.js
+Foi criado um contador que soma e subtrai o número apresentado na tela pelos botões
